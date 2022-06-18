@@ -5,8 +5,8 @@
 ### 프로젝트 기간 
   - 2022.04.18 ~ 2022.06.09
 ### 프로젝트원 
-  - 김동영, 강태원, 한승민
-
+(이름을 클릭하면 개인 github으로 이동할 수 있습니다)   
+  - [김동영](https://github.com/katalria), [강태원](https://github.com/TaeWonKang95), [한승민](https://github.com/zzozzo/)   
 
 ## 문제 인식과 솔루션
 - 전국의 각 지역은 각각 다양한 특성 존재
